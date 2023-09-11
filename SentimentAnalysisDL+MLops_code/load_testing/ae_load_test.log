@@ -1,0 +1,11 @@
+2023-02-16 19:22:21.761168 - Test succeeded
+2023-02-16 19:23:19.439796 - Test succeeded
+2023-02-16 19:23:46.545983 - Test succeeded
+2023-02-16 19:24:05.835627 - Test succeeded
+2023-02-16 19:31:04.363385 - Test succeeded
+2023-02-20 09:53:56.854206 - Test failed due to failure ratio > 1%
+2023-02-20 10:00:17.744703 - Test succeeded
+2023-02-22 08:15:26.669489 - Test succeeded
+2023-02-22 08:22:28.861067 - Test failed due to average response time > 500 ms
+2023-02-22 08:32:09.748063 - Test succeeded
+2023-02-22 08:40:11.655508 - Test succeeded
